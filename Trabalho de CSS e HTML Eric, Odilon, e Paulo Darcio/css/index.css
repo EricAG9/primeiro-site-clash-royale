@@ -1,0 +1,83 @@
+@font-face {
+	font-family: "supercell";
+	src: url("../font/supercell.ttf") format("truetype");
+}
+
+body {
+	background-image: url("../img/bg.png");
+	background-repeat: repeat;
+	background-attachment: fixed;
+}
+	
+a {
+	font-size: 13px;
+	color: gold;
+	text-decoration: none;
+	font-family: "supercell";
+}
+
+p {
+	font-family: "supercell";
+	color: white;
+}
+
+strong {
+	color: silver;
+	font-family: "supercell";
+}
+
+a:hover{
+	text-transform: uppercase;
+	font-style: bold;
+	letter-spacing: 1px;
+	color: #44FF46;
+}
+
+h1 {
+	font-family: "supercell";
+	color: silver;
+}
+
+.feed {
+	font-family: "supercell";
+	color: #D2553D;
+}
+
+.contato {
+	font-family: "supercell";
+	font-size: 15px;
+	color: gold;
+}
+
+.facebook {
+	color: #00A0FF;
+	font-family: "supercell";
+}
+
+.youtube {
+	color: #FF655A;
+	font-family: "supercell";
+}
+.mes {
+	color: yellow;
+	font-family: "supercell";
+}
+.trab {
+	color: #00FF8D;
+	font-family: "supercell";
+}
+.css {
+	color: #00BCFF;
+	font-family: "supercell"
+}
+footer {
+	font-family: "supercell";
+	color: #19DEFF;
+	text-align: center;
+	font-size: 12px;
+}
+
+.spc {
+	font-family: "supercell";
+	color: #E1FDFF;
+}
